@@ -1,4 +1,4 @@
-\# VR Multimodal Sketching
+# VR Multimodal Sketching
 
 
 
@@ -12,37 +12,15 @@ developed as part of Virtual Reality's IST course.
 
 
 
-\## 🛠 Requirements
+## 🛠 Requirements
 
 
 
-\- \*\*Unity version:\*\* <6000.0.62f1>
+- **Unity version:** <6000.0.62f1>
 
-\- \*\*Render Pipeline:\*\* Universal Render Pipeline (URP)
+- **Render Pipeline:** Universal Render Pipeline (URP)
 
-\- \*\*Platform:\*\* PC VR (Meta Quest via Link / OpenXR)
-
-
-
----
-
-
-
-\## ▶️ How to Open and Run
-
-
-
-1\. Open \*\*Unity Hub\*\*
-
-2\. Click \*\*Open → Add project from disk\*\*
-
-3\. Select the root folder of this repository
-
-4\. Open the project with the Unity version listed above
-
-5\. Once Unity finishes importing, open the main scene (see below)
-
-6\. Press \*\*Play\*\* (or build/run on your target VR device)
+- **Platform:** PC VR (Meta Quest via Link / OpenXR)
 
 
 
@@ -50,7 +28,29 @@ developed as part of Virtual Reality's IST course.
 
 
 
-\## 🎬 Main Scene
+## ▶️ How to Open and Run
+
+
+
+1. Open **Unity Hub**
+
+2. Click **Open → Add project from disk**
+
+3. Select the root folder of this repository
+
+4. Open the project with the Unity version listed above
+
+5. Once Unity finishes importing, open the main scene (see below)
+
+6. Press **Play** (or build/run on your target VR device)
+
+
+
+---
+
+
+
+## 🎬 Main Scene
 
 
 
@@ -58,7 +58,7 @@ The main scene for the project is located at:
 
 
 
-Assets\\Samples\\XR Interaction Toolkit\\3.2.2\\Hands Interaction Demo\MultimodalSketching.unity
+Assets\Samples\XR Interaction Toolkit\3.2.2\Hands Interaction Demo\MultimodalSketching.unity
 
 
 (This is the scene that should be used for evaluation.)
@@ -75,7 +75,7 @@ Assets\\Samples\\XR Interaction Toolkit\\3.2.2\\Hands Interaction Demo\Multimoda
 
 ## 👤 Author
 
-- **Name:** Bernardo Baltazar, Manuel Venade, Antonio Coutinho
+- **Names:** Bernardo Baltazar, Manuel Venade, Antonio Coutinho
 - **Course:** Virtual Reality
 - **Instituto Superior Técnico**
 
